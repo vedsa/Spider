@@ -4,6 +4,13 @@ from spider import Spider
 from domain import *
 from general import *
 
+'''
+@TODO
+1-
+2-
+3-
+4-Add database
+'''
 PROJECT_NAME = 'test'
 HOMEPAGE = 'http://test.com/'
 DOMAIN_NAME = get_domain_name(HOMEPAGE)
